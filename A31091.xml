@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Membrorum principalium apostasia, or, A short view of those many diseases and infirmities which proceed from a defection, or falling away, of the principal members or parts of the body from the performance of their several offices and functions together with their cures by the matchless tinctura cælestis, a medicine ... prepared and fitted to give relief in such extreams ... / by J. Barrow, M.D.</title>
+            <author>Barrow, J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31091</idno>
+            <idno type="STC">Wing B964</idno>
+            <idno type="STC">ESTC R29017</idno>
+            <idno type="EEBO-CITATION">10793301</idno>
+            <idno type="OCLC">ocm 10793301</idno>
+            <idno type="VID">45931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1415:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Membrorum principalium apostasia, or, A short view of those many diseases and infirmities which proceed from a defection, or falling away, of the principal members or parts of the body from the performance of their several offices and functions together with their cures by the matchless tinctura cælestis, a medicine ... prepared and fitted to give relief in such extreams ... / by J. Barrow, M.D.</title>
+                  <author>Barrow, J.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Fragment. Cropped, faded stained with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45931:1" rendition="simple:additions"/>
+            <p>
+               <hi>Membrorum Principalium Apoſtaſia:</hi> OR, A SHORT VIEW OF Thoſe many Diſeaſes and Infirmities which proceed from a <hi>Defection,</hi> or <hi>Falling away</hi> of the <hi>Principal Members</hi> or <hi>parts</hi> of the <hi>Body,</hi> from the performance of their ſeveral Offices and Functions; Together with Their CURES, By the Matchleſs Tinctura Caeleſtis: A Medicine Exquiſitely prepared and fitted to give Relief in ſuch Ex<g ref="char:EOLhyphen"/>treams, and of <hi>ſufficient Virtue</hi> and <hi>Efficacy</hi> to reduce <hi>thoſe</hi> vitiated <hi>parts</hi> to their former <hi>ſtate;</hi> and thereby <hi>Radically Cure</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt deplo<g ref="char:EOLhyphen"/>rable Diſeaſes in Men, Women and Children: With ſeveral Inſtances of ſome Eminent and Memorable Cures, of late wrought by it.</p>
+            <p>By <hi>J. Barrow</hi> M. D.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45931:2"/>
+            <pb n="1" facs="tcp:45931:2"/>
+            <head>Membrorum Principalium Apoſtaſia: <hi>OR A</hi> SHORT VIEW of thoſe many Diſeaſes and Infirmities, <hi>&amp;c.</hi>
+            </head>
+            <p>JT is the <hi>Office</hi> of <hi>Medicine;</hi> ſaith <hi>Barthol. Peraulcis; Quod deeſt in humano cor<g ref="char:EOLhyphen"/>pore ſarcire,</hi> &amp;c. <hi>to repair what is defective in mans Body, and withdraw what is ſu<g ref="char:EOLhyphen"/>pflu us.</hi> This indeed is the main Scope and Deſign of <hi>Phyſick.</hi> This <hi>point,</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Center</hi> of all the Studies and Labours of the moſt Learned <hi>Phyſicians;</hi> and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> utmoſt <hi>End</hi> and <hi>Perfection</hi> of this moſt renowned <hi>Art.</hi> Hence it was that <hi>Medicine<g ref="char:punc">▪</g> juſtly</hi> prepared, and <hi>duly</hi> adminiſtred, were by <hi>Herophilus</hi> called, <hi>Manus Deorum</hi> The <hi>Hands of the Gods;</hi> intimating a certain <hi>Beam</hi> of <hi>Divinity,</hi> even in theſe <hi>mean<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parts</hi> of the <hi>Creation,</hi> the inferiour <hi>Claſſes</hi> of <hi>Natural Bodies,</hi> by reaſon of that <hi>Mi<g ref="char:EOLunhyphen"/>raculous Efficacy,</hi> that <hi>admirable</hi> and <hi>unaccountable power</hi> and <hi>virtue</hi> which <hi>was</hi> found i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>them</hi> to <hi>repair</hi> and <hi>make good,</hi> the continual <hi>decay's</hi> of <hi>humane Bodies,</hi> and thereby <hi>ſup<g ref="char:EOLunhyphen"/>port</hi> and <hi>prolong</hi> the <hi>Health</hi> and <hi>Life</hi> of <hi>Man.</hi> For this <hi>reaſon</hi> I was moved (with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſire to do good to <hi>all,</hi> but eſpecially the <hi>poorer ſort,</hi> who were not able on all oc<g ref="char:EOLunhyphen"/>caſions to apply themſelves to a <hi>Phyſician</hi>) to <hi>publiſh</hi> this moſt <hi>Generous Medicine</hi> m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> TINCTURA CAELESTIS.</p>
+            <p>A Medicine! which, from its <hi>preparation</hi> and <hi>operation,</hi> I can with good <hi>aſſurance warrant,</hi> to anſwer thoſe <hi>great Ends</hi> in Phyſick before mentioned and by many <hi>ſigna Experiments,</hi> in <hi>ſeveral years</hi> late paſt demonſtrate: <hi>Some</hi> of which I ſhall <hi>here</hi> menti<g ref="char:EOLunhyphen"/>on, but <hi>all</hi> I cannot in this <hi>narrow compaſs.</hi> I ſay, thoſe two <hi>qualifications</hi> of a goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Medicine,</hi> are Eminently viſible in this; as firſt, <hi>it</hi> doth, <hi>det<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>here ſuperflua,</hi> draw a way all <hi>ſuperfluity</hi> of <hi>humours,</hi> which are the <hi>cauſes</hi> and <hi>matter</hi> of divers Diſeaſes: An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>next,</hi> it doth <hi>Quod deeſt ſarcire,</hi> repair what is <hi>defective,</hi> by <hi>adding</hi> ſtrength and vi<g ref="char:EOLunhyphen"/>gour to the <hi>ſickly</hi> and <hi>enfeebled</hi> Body, and that with all poſſible eaſe and ſecurity For the <hi>Compoſition</hi> of this excellent <hi>Tincture</hi> (as it is wrought with that Care an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Skill (let me ſpeak it without boaſting) that becomes an <hi>Artiſt,</hi> ſo <hi>it</hi> is manage with that <hi>caution</hi> and <hi>regard</hi> to <hi>all conſtitutions,</hi> that all perſons from the <hi>Cradle</hi> to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Crutch,</hi> may ſafely and familiarly uſe it. Yet <hi>it</hi> is a <hi>brisk vigorous Medicine;</hi> word throughly and to the purpoſe gives plentiful <hi>Stools</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rine;</hi> without any <hi>uneaſine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſickneſs,</hi> or <hi>griping,</hi> as is uſual with moſt purging Medicines: Yet <hi>(Note)</hi> one ſingu<g ref="char:EOLunhyphen"/>lar property (which <hi>it</hi> claims above others) where <hi>it</hi> meets with a <hi>very foul ſtomac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it</hi> throws up by <hi>one Vomit,</hi> or <hi>two</hi> at moſt, a deal of filthy ſlime, and tenacious Fleg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Choler, working off the reſt <hi>downward,</hi> with much <hi>pleaſure</hi> as well as <hi>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ofit</hi> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Patient.</hi>
+            </p>
+            <p>Upon the firſt Reception into the <hi>ſtomach, it</hi> is carried forth throughout all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ways</hi> and <hi>paſſages</hi> of the <hi>Chyle (that is,</hi> an <hi>extract</hi> of the firſt <hi>concoction</hi> of the Food whereby it perfecteth the <hi>Concoctions,</hi> carries off all <hi>crude,</hi> or <hi>raw u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>digeſted matt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> which diſturbs or deprave them, reſtores loſt <hi>Appetite</hi> preſerving the <hi>ſtomach,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts <hi>ſubſervient</hi> unto <hi>it</hi> in a due diſpoſition, to receive, retain, and properly diſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bute a <hi>good</hi> and <hi>ſound</hi> nouriſhment, to the whole, and every part of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody, with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting it by haſty and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>able <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lux</hi> of t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:45931:3"/> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y: diſperſing all <hi>Fumes, Vapours, unpleaſant belchings, puffing up,</hi> or <hi>ſtopping</hi> of the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>omach:</hi> Proceeding farther and mixing with the <hi>Blood, it</hi> is carried therewith in it <hi>inculate motion</hi> throughout the whole Body, preſerving the whole <hi>Maſs, ſweet, pure</hi> and untainted, comforting the Vitals, or Spirit of Life; and being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>high Cordial,</hi> helps againſt <hi>fainting, ſwooning, cold ſweats,</hi> and trembling of the Heart, and the like Effects, cauſed by <hi>loſs</hi> or <hi>diſſpation</hi> of the <hi>Spirits: It</hi> reacheth <hi>Ventricles</hi> of the <hi>Brain</hi> and <hi>Nerves,</hi> promoting the free paſſage of the <hi>animal Spirits</hi> and <hi>Nutricious Juice,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uts off the <hi>Fountain</hi> of <hi>Catarrhs,</hi> or <hi>Rheumatick Defluxions,</hi> which fall upon the <hi>Joynts</hi> and <hi>Muſcles;</hi> and <hi>ſo</hi> turns off the <hi>Head-ſpring</hi> of <hi>Rheumatiſms, Gout</hi> and <hi>Arthritick <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ains,</hi> which according to <hi>Fernelius</hi> (who glories that <hi>he only</hi> ſound it out) fall from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Head</hi> upon all the parts <hi>ſo</hi> affected.</p>
+            <p>It <hi>opens</hi> the obſtructed <hi>Liver</hi> and <hi>Spleen,</hi> cleanſeth thoſe <hi>exile</hi> or <hi>narrow</hi> paſſages of the <hi>Lacteal Veins,</hi> unloads the <hi>Meſentery, Pancreas</hi> and <hi>Gall;</hi> all which are <hi>mutually con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erned</hi> in Sanguification, or forming the Blood; and thus cures the Diſeaſes of thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arts <hi>ſo</hi> vitiated, as, <hi>Cachexie,</hi> or <hi>evil habit of Body, Dropſies, Jaundies, Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lick, Infla<g ref="char:EOLhyphen"/>mation, Obſtructions, Vapours, of Wind,</hi> ſhooting in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>Sides</hi> and <hi>Back,</hi> and cauſing very <hi>ſharp</hi> Pains <hi>there, it</hi> helps thoſe who are <hi>Hy<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ack,</hi> though to a <hi>degr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of <hi>Madn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and many other <hi>Diſeaſes</hi> ariſing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes,</hi> which cannot b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> treated of in this <hi>narrow Limit</hi> of diſcourſe; in the Cures of which this <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble Tincture</hi> hath wonderfully ſignalized its machleſs Virtues, of which I could give many inſtances, which daily occur, but muſt be contented to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and omit many for Brevi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſake. One remarkable Cure was wrought upon</p>
+            <p>
+               <hi>The Mother in Law to Mr.</hi> Joſeph Pluckroſe, <hi>Glaſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er at</hi> Fleet-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ridge <hi>in</hi> Fleet<g ref="char:EOLhyphen"/>ſtreet <hi>a Gentlewoman very ancient, who had long ſuffered under an evil habit of Body, with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>indy Fumes and Vapours, Obſtructions of the bowels, inward pains,</hi> &amp;c. <hi>but eſpec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly the faculty of her ſtomach deprav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, appetite and digeſtion ſo weakned, that her food <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he uſual paſſage, but was daily thrown up by vomiting, in which condition ſhe had <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uiſhed, even to deſpair of recovery, till ſhe took of my</hi> Tinctura Caeleſtis, <hi>by w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, with Gods aſſiſtance; ſhe ſoon recovered her former health, which continues to this d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y where<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon ſeveral of their Relations made uſe thereof, and ſent quantities</hi> to their <hi>F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ends <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Country who all found the like effects, to their great benefit and ſatisfaction.</hi>
+            </p>
+            <p>Another <hi>great and memorable cure was done upon one</hi>— Holſworth <hi>of</hi> Marlborough <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> Wiltſhire, <hi>by Trade a</hi> Black-ſmith <hi>(but a man Eminent in that Town, &amp; all the Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry about for ſome famous paſſages in his Life.) He lay long ſick of a Dropſie, which was at<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ended with great ſwellings all over, difficulty of breathing, proſtrate appetite, and the ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remity of the uſual ſymtoms of that prodigious diſeaſe, all advices and means uſed for his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecovery proved ineffectual and death only was expected to end the conteſt between the diſeaſe and almoſt vanquiſhed) Nature, till happily meeting with my</hi> Tinctura Caeleſtis, <hi>in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands of Mr.</hi> Robert Butcher <hi>a worthy perſon of that Town: He took of it, ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ording to the Direction of this Paper, and in a ſhort time was reſtored to perfect health and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontinues luſty and ſtrong; ſince which he occaſionlly coming to</hi> London, <hi>came to viſit me,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd gave me <hi>an account of diſeaſe and cure, which (next to Divine providence) he own'd my</hi> Tincture <hi>only.</hi>
+            </p>
+            <p>Furthermore, in Diſeaſes of the <hi>Reins, <g ref="char:V">Ʋ</g>reters</hi> and <hi>Bladder,</hi> as alſo the <hi>Seminall Genital Parts</hi> Its virtues are <hi>ſo great,</hi> that, all that I am able to ſay in my Praiſes of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s incomparable <hi>Tincture,</hi> cannot come up to its <hi>deſerved Character.</hi> But this I muſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (and modeſtly to) that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>er</hi>
+               <pb n="3" facs="tcp:45931:3"/> and <hi>efficacy,</hi> to <hi>cleanſe</hi> and <hi>ſcour thoſe parts,</hi> and deliver <hi>them</hi> from all mann<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>viſcous matter,</hi> which is apt to be <hi>generated there</hi> and cauſe many <hi>violent Diſeaſes; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Obſtructions, Inflamations, <g ref="char:V">Ʋ</g>lcers, Runnings</hi> and <hi>Waſtings</hi> even to the <hi>Conſumption</hi> of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>whole ſtrength</hi> and <hi>ſubſtance</hi> of the <hi>body:</hi> But eſpecially in that moſt <hi>deplorable Diſeaſe,</hi> that can happen to <hi>miſerable Man,</hi> the <hi>STONE;</hi> it is of <hi>unparalell'd Virtue</hi> &amp; <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> And though I will not ſay, that upon the preſent taking, this <hi>Tincture</hi> will forthwith <hi>break</hi> the <hi>Stone</hi> in <hi>pieces</hi> as with a <hi>Hammer,</hi> nor will any Man who knows what he ſays, af<g ref="char:EOLhyphen"/>firm it of <hi>any one</hi> or <hi>all the Medicines in the World:</hi> But its great Operations are exert<g ref="char:EOLhyphen"/>ed by <hi>rectifying</hi> the <hi>deprev'd quality</hi> of the <hi>Kidnies, aboliſhing that</hi> matter of <hi>which</hi> the <hi>Stone is formed,</hi> laying open the <hi>paſſages</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>reters</hi> that were <hi>obſtructed,</hi> and making them thereby more <hi>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee</hi> and <hi>opportune</hi> to the <hi>draining away</hi> and <hi>expelling</hi> that <hi>lapid<g ref="char:EOLhyphen"/>eſcent</hi> matter: <hi>Nature</hi> it ſelf being thus <hi>releived</hi> and <hi>aſſiſted,</hi> will find it no <hi>hard matter to eaſe it ſelf;</hi> And the <hi>Stone,</hi> for want of <hi>ſuch matter</hi> to ſupply its <hi>growth,</hi> will be apt to <hi>waſt</hi> and <hi>moulder away,</hi> and by the <hi>powerful impulſe</hi> of this <hi>Noble Tincture,</hi> flow out in <hi>ſmaller particles</hi> with the <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> as hath been <hi>prov'd</hi> by <hi>ſufficient Experience,</hi> and may be <hi>confirm'd</hi> by <hi>ſubſtantial Teſtimonies;</hi> among many I will here incert <hi>one</hi> from Mr <hi>Robert Butcher</hi> of <hi>Marlborough before mentioned,</hi> a Man of <hi>unqueſtionable Reputation</hi> and <hi>Integrity;</hi> I give it you in the words of his Letter.</p>
+            <p>
+               <hi>Your</hi> Tincture <hi>generally doth good, and anſwers peoples Expectations: Here was an Old Man of about</hi> 70 <hi>Years of age lay very bad with the Stone, he took one Glaſs, and the next day brought away ſeveral ſtones of a great bigneſs, two of which I have in my houſe.</hi>
+            </p>
+            <p>
+               <hi>I ſhall add one inſtance more upon this Subject. A</hi> Miniſter <hi>of a Town within</hi> 3 <hi>or</hi> 4 Miles <hi>from Southampton, coming to</hi> London, <hi>came to me, to take from mine own hands a quantity of my</hi> Tincture <hi>to carry into the Country for his own uſe, and that of his family and Friends; Diſcourſing with me about my</hi> Tinctura Caeleſtis <hi>told me, how highly he eſteeme it, for that he had taken of it from</hi> Mr. Powel, Bookſeller <hi>in</hi> Southampton <hi>my Correſpon<g ref="char:EOLunhyphen"/>dent, and that he had been long troubled with the Stone, and uſed ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Medicines in vain, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> taking of my</hi> Tincture, <hi>the very firſt Glaſs brought from him <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y Stones.</hi>
+            </p>
+            <p>I lately alſo received a Letter from Mr. <hi>Alexander Kemp,</hi> Chirurgeon <hi>in</hi> Baſing Stoke <hi>in</hi> Hamp-ſhire, <hi>of an Eminent Cure he did with this my</hi> Tincture Caeleſtis, <hi>upon man who had been ſeverely afflicted with a ſwelling in his Privities, large and very painful who continues ſound and very well.</hi>
+            </p>
+            <p>I could add many others but I am confined, and theſe muſt at preſent ſuffice, to ſhew, that by theſe <hi>powerful</hi> and <hi>effectual opperations,</hi> this <hi>Caeleſtial TINCT<g ref="char:V">Ʋ</g>RE</hi> dot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>comfort, ſupport,</hi> and <hi>preſerve</hi> the Principal <hi>parts</hi> and <hi>Members</hi> of the <hi>Body,</hi> as the <hi>Head Heart, Stomach Liver, Gall, Spleen, Meſentery, Reins</hi> and <hi>Bladder,</hi> in the <hi>juſt meaſure</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſtrength</hi> and <hi>Vigour,</hi> which is of the greateſt importance in the World, according t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>that</hi> of <hi>Paracelſus, Conſerva membra principalia &amp; mors non facile eveniet,</hi> ſaith he, <hi>Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſerve the principal Members of the Body, and death makes but ſlow approaches.</hi> But when <hi>the</hi> are out of <hi>order,</hi> and ceaſe to perform <hi>thoſe Offices,</hi> for which <hi>God</hi> and <hi>Nature</hi> ordaine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>them,</hi> the Strength fades, Sickneſs prevails, and Death obtains the Conqueſt.</p>
+            <p>In that <hi>
+                  <g ref="char:V">Ʋ</g>niverſally lamented</hi> Diſeaſe the <hi>Scurvey,</hi> it is a <hi>certain</hi> and <hi>Soveraign Remed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> for as the <hi>Scurvey,</hi> is a diſeaſe of the <hi>whole Body,</hi> known by a <hi>dull, heavy, liſtleſs, f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>lazy indiſpoſition</hi> to undertake and perform the <hi>common actions of Life,</hi> that <hi>wea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>neſs</hi> and <hi>uneaſineſs</hi> in ſuch as are neceſſitated to follow buſineſs, ſo, <hi>it</hi> is alſo <hi>apparent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſharp putrid humours</hi> ſeizing the more <hi>remote</hi> and <hi>ſolid parts</hi> of the Body, cauſing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooſe, diſcoloured, ſoul and unſavoury Teeth</hi> and <hi>Brea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi>
+               <pb n="4" facs="tcp:45931:4"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo <hi>red,</hi> or <hi>blewiſh Spots</hi> like <hi>flea-bites,</hi> in the <hi>skin</hi> of the <hi>Breaſt, Arms, Thighs,</hi> and <hi>Leggs, ſickneſs</hi> of the <hi>Stomach, weak digeſtions, loſs of Appetite, Wind, Stretching</hi> and <hi>Belching,</hi> alſo <hi>riſings</hi> in the <hi>skin</hi> like the <hi>ſtinging of Nettles,</hi> and alſo <hi>frequent moveable pains,</hi> in the <hi>Back, Sides, Head, Shoulders, Arms, Leggs,</hi> and <hi>Joynts,</hi> as are ſometimes ſu<g ref="char:EOLhyphen"/>ſpected to be a worſe Diſeaſe, and very often paſſeth for the <hi>Gout,</hi> and degenerateth oftentimes into the <hi>Dropſy,</hi> and hath at other times the <hi>Jaundies</hi> joyned with it, with many other violent ſymptoms hard to be deſcribed, being infinitely various, according to the different conſtitutions of ſuch as ſuffer under them. All which are cauſed by a general defection and revolt of the <hi>principal Members</hi> before mentioned, from their ſeveral offices and functions, whereby an abundance of evil humours are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaped up, to the annoying and diſordering the whole frame and complexion of the Body. Now for the certain Cure, and total rooting out of this <hi>woful</hi> Diſtemper, there is not a more ready and exquiſite Medicine than this <hi>Celeſtial Tincture,</hi> to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed as hereafter mentioned. Moreover this <hi>GREAT TINCT<g ref="char:V">Ʋ</g>RE</hi> is incomparably prevalent againſt the many Diſeaſes of Women, which out of a reſpect to that ten<g ref="char:EOLhyphen"/>der Sex I forbear to deſcribe at large: Therefore in ſhort, It is a preſent h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lp in the many infirmities of the Womb, cleanſing it, from thoſe impure humours which ſlow into it, cauſing Fits of the Mother, Vapours which diſturb the Head, Heart, Sto<g ref="char:EOLhyphen"/>mach and <hi>Vitals,</hi> cauſing great <hi>Stopping, Swelling, Strangulation, <g ref="char:V">Ʋ</g>lcers, Pains,</hi> and infinite other diſmal effects, throughout the whole Body; by reaſon of its affinity with all the, <hi>Noble parts.</hi> In <hi>all</hi> which it gives a ſeaſonable relief, and preſerves Na<g ref="char:EOLhyphen"/>ture in her due Courſe. It reſtores to the <hi>Pale Virgin,</hi> a <hi>freſh</hi> and <hi>pleaſant Coun<g ref="char:EOLhyphen"/>tenance;</hi> and to ſuch as want their Feminine ſickneſs, it brings <hi>That,</hi> with all the caſe and ſatisfaction that can be expected, and ſo prevents a multitude of Evils which uſu<g ref="char:EOLhyphen"/>ally attend thoſe defects.</p>
+            <p>It is exceeding available in Worms in Children and in the <hi>Rickets</hi> it affords pre<g ref="char:EOLhyphen"/>ſent help.</p>
+            <p>In times of Contagion it is an high <hi>preſervative</hi> and keeps off all <hi>Infection,</hi> which will be of <hi>great uſe</hi> to ſuch as by full eating and drinking, and other eaſie and luxu<g ref="char:EOLhyphen"/>riant ways of living, are apt to get <hi>Surfeits</hi> and <hi>Fevers,</hi> and <hi>will</hi> probably be more ob<g ref="char:EOLhyphen"/>noxious to <hi>ſuch</hi> Diſeaſes in this enſuing year, which according to the Perdictions of our <hi>Aſtronomers,</hi> (taken from thoſe dreadful Configurations of the <hi>Heaven,</hi> and Malevolent Aſpects of the ſuperior Planets) is like to produce many Mortal Sick<g ref="char:EOLhyphen"/>neſſes; And happy are they who have ſuch Means at hand, and prudence to conſi<g ref="char:EOLunhyphen"/>der a threatning miſchief and prevent it.</p>
+            <p>
+               <hi>Laſtly,</hi> In all theſe <hi>Sickneſſes, Diſeaſes, Diſtempers, Infirmities, Indiſpoſitions</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the whole, or any of the parts and <hi>Members</hi> of the Body herein mentioned, this Ge<g ref="char:EOLunhyphen"/>nerous <hi>Medicine,</hi> my <hi>TINCT<g ref="char:V">Ʋ</g>RA CAELISTIS</hi> is prepared to anſwer all the indi<g ref="char:EOLunhyphen"/>cations and intentions, of their Cure, being of Virtue equivalent to their Exigences accommodated to ſuch their Extreams of weakneſs; and to preſerve and ſupport <hi>Na<g ref="char:EOLunhyphen"/>ture</hi> Vigorous, ſound, ſtrong, and in a laſting ſtate of Health.</p>
+            <div type="part">
+               <head>Directions for the <g ref="char:V">Ʋ</g>ſe of the <hi>TINCTURA CAELESTIS.</hi>
+               </head>
+               <p>It remains now, that I only give ſome Directions for the uſe of this <hi>Caeleſtial Tin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure,</hi> in which I ſhall be very brief, for a Publick Medicine ſhould in no wiſe adm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> difficulties, to perplex or puzzle the Senſes or Memory of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Reader</hi> with tedio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <pb facs="tcp:45931:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
